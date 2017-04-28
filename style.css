@@ -1,0 +1,349 @@
+.body{margin:0px; padding:0px;}
+*{margin:0px; padding:0px;}
+
+.contaner{width:1069px; height:6px; //background:yellow; margin:auto;}
+/**********header*****************/
+.header{width:100%; height:77px; background:#3D589B;}
+.logo{width: 209px;
+height: 49px;
+background: url("fb.jpg") repeat scroll 0% 0% #F00;
+position: relative;
+top: 18px;
+background-size: 218px;
+background-repeat: no-repeat;
+background-position: -3px; 
+-webkit=transform:skew(20deg,30deg);
+//transform:translate(20px,20px);
+transition:3s;}
+
+.logo:hover{transform:skew(30deg,30deg);}
+
+
+
+.nav{width:438px; height:63px; //background:red;    margin-left: 628px;  margin-top: -39px;
+}
+
+.name{margin-top: 25px; height:19px;position: relative;
+left: 23px;}
+.password{margin-left: 11px; height: 19px;position: relative;
+left: 23px;}
+.ab{width: 308px;
+height: 14px;
+//background: none repeat scroll 0% 0% #FF0;
+margin-top: -38px;}
+
+.email{text-decoration: none;
+color: white;
+font-size: 12px;
+margin-left: 23px;}
+
+.pass{text-decoration: none;
+font-size: 12px;
+margin-left: 72px;
+color: white;}
+
+
+
+
+
+.box{margin-left: 22px;margin-top: 26px;}
+
+
+
+.lab{    color: #9DACCB;
+    font-size: 11px;
+    position: relative;
+    bottom: 3px;
+}
+
+.forgot{    text-decoration: none;
+    color: #9DACCB;
+    margin-left: 55px;
+    font-size: 12px;
+    position: relative;
+    bottom: 2px;
+}
+
+.ww{color: #9DACCB;
+font-size: 11px;
+position: relative;
+bottom: 2px;}
+
+.login{position: relative;
+left: 28px;
+bottom: 0px;
+background: #00F none repeat scroll 0% 0%;
+border: 1px solid;
+font-size: 13px;}
+
+
+
+/*************contant1***************/
+
+.contant1{width:100%; height:518px; background:#E2E5F0;}
+
+.submanu{width: 415px;
+height: 508px;
+//background: none repeat scroll 0% 0% #F00;
+margin-left: 647px;}
+
+
+.sign{width: 256px;
+height: 64px;
+//background: none repeat scroll 0% 0% #FFF;
+font-weight: bold;
+font-size: 27px;
+padding-top: 19px;}
+
+.free{font-size: 14px;
+margin-top: -26px;}
+
+.first{margin-top: 18px;
+height: 35px;
+border-radius: 4px;
+border: 1px solid gray;
+width: 167px;
+margin-left: 3px;
+font-size: 17px;
+padding-left: 7px;}
+
+.last{height: 35px;
+width: 167px;
+border: 1px solid #808080;
+border-radius: 4px;
+font-size: 17px;
+padding-left: 7px;}
+
+
+.mob{margin-top: 6px;
+height: 35px;
+width: 342px;
+border: 1px solid #808080;
+border-radius: 4px;
+font-size: 17px;
+padding-left: 7px;
+margin-left: 2px;}
+
+
+.num{height: 35px;
+width: 343px;
+border: 1px solid #808080;
+border-radius: 4px;
+font-size: 17px;
+padding-left: 7px;
+margin-top: 6px;
+margin-left: 2px;}
+
+
+.ps{height: 35px;
+width: 346px;
+border: 1px solid #808080;
+border-radius: 4px;
+font-size: 17px;
+padding-left: 7px;
+margin-top: 7px;
+margin-left: 2px;}
+
+.bd{margin-top: 10px;
+margin-left: 4px;}
+
+.select{height: 30px;
+margin-left: 6px;}
+
+
+.day{    height: 30px;
+    margin-left: -5px;
+    width: 56px;
+}
+
+
+.pro{text-decoration: none;
+font-size: 11px;
+color: #3D589B;
+}
+
+
+.leb{position: relative;
+top: 18px;
+right: -14px;
+color: #000;}
+
+
+.fe{position: relative;
+left: 28px;
+top: 18px;
+color: black;}
+
+
+.click{margin-top: 14px;
+font-size: 12px;
+margin-left: 2px;
+color: #777;}
+
+
+.span{color:#3B5998;}
+.rr{    width: 318px;
+    height: 36px;
+    //background: white;
+}
+
+
+.signup{width: 232px;
+height: 44px;
+margin-top: 21px;
+background: none repeat scroll 0% 0% #6AA555;
+border-radius: 4px;
+transition: all 2s ease 0s; transition:2s;}
+
+.sig{margin-left: 72px;
+color: white;
+text-decoration: none;
+position: relative;
+top: 6px;font-size: 25px;}
+
+.signup:hover{background:black; }
+
+
+.connect{width: 575px;
+height: 378px;
+//background: none repeat scroll 0% 0% #F00;
+margin-top: -463px;}
+
+
+.h1{color: #333353;
+font-weight: bold;
+margin-left: 19px;}
+
+.photo{width: 575px;
+height: 45px;
+//background: none repeat scroll 0% 0% #FFF;
+margin-top: 31px;}
+
+.color{position: relative;
+top: 12px;
+left: 21px;
+//font-weight: bold;
+color: #373D45;
+font-size: 19px;
+font-family: "lucida grande",tahoma,verdana,arial,sans-serif;}
+
+
+.back{    position: relative;
+    top: 12px;
+    left: 29px;
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+}
+
+.share{height: 45px;
+//background:white;
+width: 575px;
+margin-top: 11px;
+}
+
+
+.share1{    color: #373D45;
+    font-size: 19px;
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    position: relative;
+    left: 20px;
+}
+
+.share2{position: relative;
+left: 34px;
+font-family: "lucida grande",tahoma,verdana,arial,sans-serif;}
+
+
+.white{height: 45px;
+//background: none repeat scroll 0% 0% #FFF;
+width: 575px;
+margin-top: 7px;}
+
+.sign1{
+position: relative;
+    left: 31px;
+    top: 23px;
+    width: 232px;
+    height: 34px;
+}
+
+.log{
+    position: relative;
+left: 28px;
+width: 48px;
+background: #3D589B;
+color: white;
+
+}
+
+
+/**************Home*****************/
+
+
+
+.se{
+    position: relative;
+left: 272px;
+bottom: 23px;
+width: 212px;
+height: 32px;
+padding-left: 22px;
+background: none;
+border: 1px solid aliceblue;
+color: white;
+border-radius: 6px;
+}
+
+.se1{
+    margin-left: 287px;
+position: relative;
+bottom: 22px;
+width: 82px;
+height: 28px;
+color: white;
+background: none;
+}
+
+.p1{
+margin-left: 772px;
+position: relative;
+bottom: 52px;
+color: white;
+}
+
+.p2{
+
+
+    background: red;
+width: 37px;
+height: 33px;
+margin-left: 840px;
+position: relative;
+bottom: 80px;
+}
+.logout{
+
+    text-decoration: none;
+    color: white;
+    margin-left: 992px;
+    position: relative;
+    bottom: 105px;
+}
+
+.timeline{
+
+width: 120%;
+height: 350px;
+background-color:black;
+
+}
+
+.profile{
+
+width: 139px;
+height: 139px;
+background: red;
+position: relative;
+top: 229px;
+
+}
+
